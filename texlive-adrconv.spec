@@ -6,7 +6,7 @@
 # catalog-version 1.3
 Name:		texlive-adrconv
 Version:	1.3
-Release:	5
+Release:	6
 Summary:	BibTeX styles to implement an address database
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/adrconv
