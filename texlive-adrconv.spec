@@ -31,28 +31,11 @@ fi
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/bibtex/bst/adrconv/adrbirthday.bst
-%{_texmfdistdir}/bibtex/bst/adrconv/adrconv.bst
-%{_texmfdistdir}/bibtex/bst/adrconv/adrfax.bst
-%{_texmfdistdir}/tex/latex/adrconv/adrdir.cfg
-%{_texmfdistdir}/tex/latex/adrconv/adrplaner.cfg
-%{_texmfdistdir}/tex/latex/adrconv/adrsmall.cfg
-%doc %{_texmfdistdir}/doc/latex/adrconv/2latex.vim
-%doc %{_texmfdistdir}/doc/latex/adrconv/adrconv.tex
-%doc %{_texmfdistdir}/doc/latex/adrconv/adrconv_pages08.pages/Contents/PkgInfo
-%doc %{_texmfdistdir}/doc/latex/adrconv/adrconv_pages08.pages/QuickLook/Thumbnail.jpg
-%doc %{_texmfdistdir}/doc/latex/adrconv/adrconv_pages08.pages/index.xml.gz
-%doc %{_texmfdistdir}/doc/latex/adrconv/adrdir.tex
-%doc %{_texmfdistdir}/doc/latex/adrconv/adrfax.tex
-%doc %{_texmfdistdir}/doc/latex/adrconv/adrguide.pdf
-%doc %{_texmfdistdir}/doc/latex/adrconv/adrguide.tex
-%doc %{_texmfdistdir}/doc/latex/adrconv/adrmontage1.tex
-%doc %{_texmfdistdir}/doc/latex/adrconv/adrmontage2.tex
-%doc %{_texmfdistdir}/doc/latex/adrconv/birthday.tex
-%doc %{_texmfdistdir}/doc/latex/adrconv/example.bib
+%{_texmfdistdir}/bibtex/bst/adrconv
+%{_texmfdistdir}/tex/latex/adrconv
+%doc %{_texmfdistdir}/doc/latex/adrconv
 #- source
-%doc %{_texmfdistdir}/source/latex/adrconv/adrconv.dtx
-%doc %{_texmfdistdir}/source/latex/adrconv/adrconv.ins
+%doc %{_texmfdistdir}/source/latex/adrconv
 
 #-----------------------------------------------------------------------
 %prep
