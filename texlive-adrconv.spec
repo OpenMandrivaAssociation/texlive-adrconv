@@ -5,9 +5,9 @@ Summary:	BibTeX styles to implement an address database
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/adrconv
 License:	LPPL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/adrconv.r46817.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/adrconv.doc.r46817.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/adrconv.source.r46817.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/adrconv.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/adrconv.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/adrconv.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
