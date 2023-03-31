@@ -1,6 +1,6 @@
 Name:		texlive-adrconv
 Version:	46817
-Release:	1
+Release:	2
 Summary:	BibTeX styles to implement an address database
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/adrconv
