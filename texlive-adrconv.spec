@@ -3,7 +3,7 @@ Version:	46817
 Release:	2
 Summary:	BibTeX styles to implement an address database
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/adrconv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/adrconv
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/adrconv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/adrconv.doc.r%{version}.tar.xz
